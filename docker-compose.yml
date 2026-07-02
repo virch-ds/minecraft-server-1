@@ -16,6 +16,8 @@ services:
 
       VERSION: "1.21.1"
 
+      ONLINE_MODE: "false"
+
       MEMORY: "8G"
 
       TZ: "Europe/Berlin"
